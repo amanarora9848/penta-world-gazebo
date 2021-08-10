@@ -61,7 +61,7 @@ $ cd ../
 
 #### Add the library path to the Gazebo plugin path
 ```bash
-$ export GAZEBO_PLUGI_PATH=${GAEBO_PLUGIN_PATH}:/home/user/penta-world-gazebo/build
+$ export GAZEBO_PLUGIN_PATH=${GAZEBO_PLUGIN_PATH}:/home/user/penta-world-gazebo/build
 ```
 
 #### Run the Gazebo world file.
