@@ -1,5 +1,5 @@
 # penta-world-gazebo
-A little world created using gazebo simulator, with self-created and imported models and plugins.
+This is a little world created using gazebo simulator, with self-created and imported models and plugins. It'll be used to house robots for simlation purposes, which will be updated in differnt repositories.
 
 ### Requirements:
 
@@ -46,7 +46,7 @@ $ cd build/
 $ cmake ../
 $ make
 ```
-The c++ script files are located in the `scripts` directory inside of our cloned directory `penta-world-gazebo`.
+The c++ script files are located in the `script` directory inside of our cloned directory `penta-world-gazebo`.
 
 #### Run this and copy the directory path
 ```bash
@@ -69,4 +69,4 @@ $ export GAZEBO_PLUGIN_PATH=${GAZEBO_PLUGIN_PATH}:/home/user/penta-world-gazebo/
 $ gazebo world/AmanWorld
 ```
 
-#### If everything works fine, you should see something like the image which exists in the `images` folder.
+#### If everything works fine, you should see something like `PentaWorld.jpg` which exists in the `images` folder.
