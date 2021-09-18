@@ -1,5 +1,5 @@
 # penta-world-gazebo
-This is a little world created using gazebo simulator, with self-created and imported models and plugins. It'll be used to house robots for simlation purposes, which will be updated in differnt repositories.
+This is a little world created using gazebo simulator, with self-created and imported models and plugins. It'll be used to house robots for simlation purposes, which will be updated in different repositories.
 
 ### Requirements:
 
